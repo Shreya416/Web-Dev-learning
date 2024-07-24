@@ -1,0 +1,108 @@
+.title-text{
+    
+    font-weight: 200;
+    background-color: lavender;
+    font-size: large;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+  
+.top-container{
+    background-color: lavender;
+    display: flex;
+    flex-basis: auto;
+    height: fit-content;
+    width: fit-content;
+}
+
+.middle-container{
+    background-color:beige;
+}
+
+.skills{
+    background-color: honeydew;
+}
+
+
+top-container{
+    background-color:silver;
+}
+
+.contact-me{
+    background-color:ivory;
+}
+
+.flower{
+    display: flex;
+    margin-left:auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 8px;
+    height: 20%;
+    
+}
+
+.profile{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 100px;
+    
+}
+   
+.coding{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 8px;
+    
+}
+.exercise{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 10px;
+    
+}
+.contact-me{
+    display: flex;
+    flex-direction: column;
+    margin-top: auto;
+}
+h2{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+h3{
+    color: deeppink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+p{
+    color: darkmagenta;
+    font-weight: bolder;
+}
+
+.bottom-container{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.end{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
